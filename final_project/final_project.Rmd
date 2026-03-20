@@ -60,6 +60,7 @@ for(p in seq(0,10)){
 }
 minAICp
 minAICq
+aic
 ```
 
 
