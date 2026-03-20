@@ -63,7 +63,6 @@ minAICq
 aic
 ```
 
-
 ```{r}
 # automatic model selection
 library(forecast)
